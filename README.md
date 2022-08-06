@@ -1,4 +1,4 @@
 # Backbone
 
 
-This is a repo for test api integratiion
+This is a repo for test api integration
